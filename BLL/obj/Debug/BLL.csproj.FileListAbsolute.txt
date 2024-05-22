@@ -1,0 +1,11 @@
+I:\OOAD assignments\BLL\bin\Debug\BLL.dll
+I:\OOAD assignments\BLL\bin\Debug\BLL.pdb
+I:\OOAD assignments\BLL\bin\Debug\BOL.dll
+I:\OOAD assignments\BLL\bin\Debug\DAL.dll
+I:\OOAD assignments\BLL\bin\Debug\BOL.pdb
+I:\OOAD assignments\BLL\bin\Debug\DAL.pdb
+I:\OOAD assignments\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+I:\OOAD assignments\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+I:\OOAD assignments\BLL\obj\Debug\BLL.csproj.Up2Date
+I:\OOAD assignments\BLL\obj\Debug\BLL.dll
+I:\OOAD assignments\BLL\obj\Debug\BLL.pdb

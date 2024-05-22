@@ -1,0 +1,6 @@
+I:\OOAD assignments\BOL\bin\Debug\BOL.dll
+I:\OOAD assignments\BOL\bin\Debug\BOL.pdb
+I:\OOAD assignments\BOL\obj\Debug\BOL.csproj.AssemblyReference.cache
+I:\OOAD assignments\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+I:\OOAD assignments\BOL\obj\Debug\BOL.dll
+I:\OOAD assignments\BOL\obj\Debug\BOL.pdb

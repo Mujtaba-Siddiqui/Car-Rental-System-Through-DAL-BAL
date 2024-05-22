@@ -1,0 +1,9 @@
+I:\OOAD assignments\DAL\bin\Debug\DAL.dll
+I:\OOAD assignments\DAL\bin\Debug\DAL.pdb
+I:\OOAD assignments\DAL\bin\Debug\BOL.dll
+I:\OOAD assignments\DAL\bin\Debug\BOL.pdb
+I:\OOAD assignments\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+I:\OOAD assignments\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+I:\OOAD assignments\DAL\obj\Debug\DAL.csproj.Up2Date
+I:\OOAD assignments\DAL\obj\Debug\DAL.dll
+I:\OOAD assignments\DAL\obj\Debug\DAL.pdb
